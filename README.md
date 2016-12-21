@@ -1,6 +1,5 @@
-#TERMS AND CONDITIONS
 
-<h1 id="header-1header-1"><a href="#header-1"></a>Header 1</h1>
+<h1 id="header-1header-1"><a href="#header-1"></a>TERMS AND CONDITIONS</h1>
 
 
 
