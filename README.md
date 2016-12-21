@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-AntiChat - User Agreement</title>
+
+<head><title>AntiChat - User Agreement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="en" />
 <meta name="description" content="AntiChat App User Agreement. Follow the rules. Don`t break them or you will be banned." />
 <meta name="keywords" content="free dating site app online sms lesbian adult flirt sex text roulette random group bi social singles meet new people personals role play with strangers for teens hook up boring" />
